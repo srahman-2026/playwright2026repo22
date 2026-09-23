@@ -11,7 +11,7 @@ test.describe("login test",{tags:['smoke','login']},()=>
 {
 
 
-test("login to the application", async({page})=>
+test("login to the application learn Automation", async({page})=>
 {
 
     //make sure baseURL is uncheck under use: in config.js file
