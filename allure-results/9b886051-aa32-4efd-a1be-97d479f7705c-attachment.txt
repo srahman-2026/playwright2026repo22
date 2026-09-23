@@ -1,0 +1,6 @@
+****type performed with value admin@email.com ****
+****type performed with value admin@123 ****
+****click performed ****
+test data user for this test admin@email.com and admin@123
+****click performed ****
+****click performed ****
